@@ -38,7 +38,7 @@ public class SingletonMultiThreaded {
         Constructor<SingletonMultiThreaded> declaredConstructor = clazz.getDeclaredConstructor();
         declaredConstructor.setAccessible(true);
 
-        SingletonMultiThreaded o = (SingletonMultiThreaded) declaredConstructor.newInstance();
+        SingletonMultiThreaded o = declaredConstructor.newInstance();
         System.out.println(o.hashCode());
     }
 }
