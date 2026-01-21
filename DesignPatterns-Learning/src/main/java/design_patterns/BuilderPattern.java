@@ -1,4 +1,4 @@
-package base.designPatterns;
+package design_patterns;
 
 public class BuilderPattern {
     private final int id;

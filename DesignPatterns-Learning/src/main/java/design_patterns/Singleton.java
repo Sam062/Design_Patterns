@@ -1,4 +1,4 @@
-package base.designPatterns;
+package design_patterns;
 
 import java.io.Serializable;
 
