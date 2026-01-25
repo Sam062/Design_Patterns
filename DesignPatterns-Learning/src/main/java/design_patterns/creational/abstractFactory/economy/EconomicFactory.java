@@ -1,7 +1,7 @@
-package design_patterns.abstractFactory.economy;
+package design_patterns.creational.abstractFactory.economy;
 
-import design_patterns.abstractFactory.AbstractFactory;
-import design_patterns.abstractFactory.Car;
+import design_patterns.creational.abstractFactory.AbstractFactory;
+import design_patterns.creational.abstractFactory.Car;
 
 public class EconomicFactory implements AbstractFactory {
     @Override

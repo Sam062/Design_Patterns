@@ -1,6 +1,6 @@
-package design_patterns.abstractFactory.luxury;
+package design_patterns.creational.abstractFactory.luxury;
 
-import design_patterns.abstractFactory.Car;
+import design_patterns.creational.abstractFactory.Car;
 
 public class LuxuryCar2 implements Car {
     @Override

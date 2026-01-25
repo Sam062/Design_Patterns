@@ -1,4 +1,4 @@
-package design_patterns;
+package design_patterns.creational;
 
 import java.io.*;
 import java.lang.reflect.Constructor;

@@ -1,4 +1,4 @@
-package design_patterns.factory;
+package design_patterns.creational.factory;
 
 public class Android implements OperatingSystem {
     @Override

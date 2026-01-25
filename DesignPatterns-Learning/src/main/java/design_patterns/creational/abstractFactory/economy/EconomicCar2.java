@@ -1,6 +1,6 @@
-package design_patterns.abstractFactory.economy;
+package design_patterns.creational.abstractFactory.economy;
 
-import design_patterns.abstractFactory.Car;
+import design_patterns.creational.abstractFactory.Car;
 
 public class EconomicCar2 implements Car {
     @Override

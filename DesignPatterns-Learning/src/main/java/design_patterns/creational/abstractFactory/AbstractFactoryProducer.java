@@ -1,7 +1,7 @@
-package design_patterns.abstractFactory;
+package design_patterns.creational.abstractFactory;
 
-import design_patterns.abstractFactory.economy.EconomicFactory;
-import design_patterns.abstractFactory.luxury.LuxuryFactory;
+import design_patterns.creational.abstractFactory.economy.EconomicFactory;
+import design_patterns.creational.abstractFactory.luxury.LuxuryFactory;
 
 public class AbstractFactoryProducer {
     public AbstractFactory getFactoryInstance(String value) {

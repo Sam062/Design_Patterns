@@ -1,4 +1,4 @@
-package design_patterns.factory;
+package design_patterns.creational.factory;
 
 public class UseCase {
     public static void main(String[] args) {

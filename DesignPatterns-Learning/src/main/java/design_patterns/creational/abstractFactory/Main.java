@@ -1,4 +1,4 @@
-package design_patterns.abstractFactory;
+package design_patterns.creational.abstractFactory;
 
 public class Main {
     public static void main(String[] args) {
